@@ -2,7 +2,7 @@
 I have created a Simple Valentine's Day HTML Script, free and used for learning.
 
 # Demo Site
-<a href="https://wafarifki.github.io/ValentineDayScript/">https://wafarifki.github.io/ValentineDayScript/</a>
+<a href="(https://affirudinm.github.io/buatanyaa)">https://wafarifki.github.io/ValentineDayScript/</a>
 
 # ScreenShoot
  <img src="https://raw.githubusercontent.com/wafarifki/ValentineDayScript/main/Screenshot.JPG">

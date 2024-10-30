@@ -51,7 +51,7 @@ $('.kehalaman2').click(function() {
 });
 
 var i = 0;
-var txt = "Ribuan malam ku termenung sendiri, Menunggu seseorang untuk memelukku, Lewati ratusan mimpi tersimpan dalam sanubari, Sendiri di tengah kegelapan yang semu. Terimakasih engkau telah hadir untukku,\nmenemani kesepianku dan telah menjadi penerang dalam gelapku,  I Love You";
+var txt = "bubs, aku minta maaf ya setelah masalah ini kita jadi awkward gini. mungkin susah buat kamu buat maafin aku but i'll try to fix it, gimme another chance ya, please?,i love You";
 var speed = 200;
 
 function JalaninTeks() {
